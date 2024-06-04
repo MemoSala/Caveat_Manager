@@ -1,1 +1,1 @@
-![Caveat Manager](images/Advertising All.jpg)
+![Caveat Manager](images/Advertising All.png)
